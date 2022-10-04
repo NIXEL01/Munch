@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/background_popular.xml" value="0.2375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/backgroung_categories.xml" value="0.2375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/cart_background.xml" value="0.2375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/get_started.xml" value="0.2525" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/login_background.xml" value="0.2375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/orange_background.xml" value="0.2375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/register_button.xml" value="0.2375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/search_edit_background.xml" value="0.2375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/drawable/yellow_btn_background.xml" value="0.2375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/activity_cart.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/activity_checkout.xml" value="0.26806327490380505" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/activity_drinks.xml" value="0.20799180327868852" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/activity_intro.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/activity_pizzas.xml" value="0.26806327490380505" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/activity_sign_up.xml" value="0.16393442622950818" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/background_categories.xml" value="0.16393442622950818" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/categories.xml" value="0.16393442622950818" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/custom_progress_bar.xml" value="0.20799180327868852" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/test.xml" value="0.5" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/viewholde_pizza.xml" value="0.2672082086361693" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/viewholder_cart.xml" value="0.21182432432432433" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/viewholder_categories.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/viewholder_drinks.xml" value="0.20799180327868852" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Munch/app/src/main/res/layout/viewholder_popular.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
